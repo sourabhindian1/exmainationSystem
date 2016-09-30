@@ -1,0 +1,2 @@
+# exmainationSystem
+Online Examination System is a web application consists of web server with database facility. With this, users can give exams and view their results. There is a database consisting of table entries of user's details and questions bank. Challenges:  1. Every time user wants to give test, the sequence of questions will be changed. 2. Customizing webpage on different questions. 3. Maintaining the session of the user. I have developed this application alone. Through this project, I learnt html, CSS, SQL, java(servlets).
